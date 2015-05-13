@@ -1,3 +1,3 @@
 # vimrc
-mv .vimrc ~/
-mv .sample.template ~/.vim
+> mv .vimrc ~/
+> mv .sample.template ~/.vim
