@@ -1,3 +1,4 @@
 # vimrc
-> mv .vimrc ~/
-> mv .sample.template ~/.vim
+### Configuration
+  mv .vimrc ~/
+  mv .sample.template ~/.vim
