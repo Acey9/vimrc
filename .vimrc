@@ -233,9 +233,8 @@ function GetPythonIndent(lnum)
 
 endfunction
 
-"execute pathogen#infect()
+execute pathogen#infect()
 syntax on
-"filetype off
 filetype plugin indent on   " 开启插件
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 set runtimepath^=~/.vim/bundle/nerdtree
