@@ -98,12 +98,6 @@ filetype plugin indent on    " 必须 加载vim自带和插件相应的语法和
 "filetype plugin on
 
 
-set runtimepath^=~/.vim/bundle/ctrlp.vim
-set runtimepath^=~/.vim/bundle/nerdtree
-set runtimepath^=~/.vim/bundle/tagbar
-set runtimepath^=~/.vim/bundle/vim-go
-set runtimepath^=~/.vim/bundle/YouCompleteMe
-
 " NERD tree
 let NERDChristmasTree=0
 let NERDTreeWinSize=35
